@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>TDD.CodingTest.External</AssemblyName>
+    <RootNamespace>TDD.CodingTest.External</RootNamespace>
+  </PropertyGroup>
+
+</Project>
