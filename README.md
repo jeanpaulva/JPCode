@@ -8,4 +8,4 @@ You can also visit my blog at https://azure-arena.com/
 My Personal Email would be jeanpaulva@gmail.com
 
 Regards,
-JP
+JP | Last Updated: Oct-2018
