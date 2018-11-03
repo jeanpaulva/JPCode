@@ -1,6 +1,6 @@
 Welcome!
 
-This sample project contains Code Quality Sample demonstrating my experience with C#, OOPs, SOLID principles, TDD, Unit Testing & Mocking.  I personally believe Good Quality Code will Live More!
+This sample project contains Code Quality Sample demonstrating my experience with C#, OOPs, SOLID principles, TDD, Unit Testing & Mocking.  I personally believe Thoughtfully Written Quality Code is the Core to Project Success!
 
 I am a Passionate C# Developer + Architect with 15+ years of experience.  I have been experienced in both Project & Product Development methodologies.  Being a Passioante C# Programmer I have written an ebook "Design Patterns in C#" available in Amazon https://amzn.to/2yLDJ0X.
 
